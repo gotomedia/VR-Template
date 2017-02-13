@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{29E7F5EE-DEED-178F-50B2-2108E732FD68}") = "VR-Template", "Assembly-CSharp-firstpass.csproj", "{33FA2EBE-3A98-E011-3927-479159AB3D56}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Template", "Assembly-CSharp-firstpass.csproj", "{33FA2EBE-3A98-E011-3927-479159AB3D56}"
 EndProject
-Project("{29E7F5EE-DEED-178F-50B2-2108E732FD68}") = "VR-Template", "Assembly-CSharp.csproj", "{6F44B314-7D91-F6EB-1AAE-4A0DCDDEE4BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Template", "Assembly-CSharp.csproj", "{6F44B314-7D91-F6EB-1AAE-4A0DCDDEE4BE}"
 EndProject
-Project("{29E7F5EE-DEED-178F-50B2-2108E732FD68}") = "VR-Template", "Assembly-CSharp-Editor.csproj", "{8F207EC2-8E3C-25A5-350C-BFA44450D0E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Template", "Assembly-CSharp-Editor.csproj", "{8F207EC2-8E3C-25A5-350C-BFA44450D0E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
