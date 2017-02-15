@@ -2,7 +2,7 @@
 using System.Collections;
 
 [RequireComponent(typeof(Collider))]
-public class Grab : MonoBehaviour, IGvrGazeResponder {
+public class Grab : MonoBehaviour {
 	private Vector3 startingPosition;
 	private Vector3 handLast;
 	private Vector3 handDelta;
